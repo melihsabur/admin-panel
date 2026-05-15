@@ -1,0 +1,7 @@
+Proje GitHub Linki
+===================
+
+https://github.com/melihsabur/admin-panel
+
+Proje Adi: Admin Panel - Cok Gruplu Yonetim Sistemi
+Gelistirici: Melih Sabur
